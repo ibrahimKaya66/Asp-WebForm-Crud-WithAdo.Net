@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asp-WebForm-Crud", "Asp-WebForm-Crud\Asp-WebForm-Crud.csproj", "{1A9AD57E-0E77-43FC-A216-F040DFBE09B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A9AD57E-0E77-43FC-A216-F040DFBE09B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A9AD57E-0E77-43FC-A216-F040DFBE09B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A9AD57E-0E77-43FC-A216-F040DFBE09B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A9AD57E-0E77-43FC-A216-F040DFBE09B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D234F33C-4140-4CFE-AE12-4E33334E0EF4}
+	EndGlobalSection
+EndGlobal
